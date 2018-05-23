@@ -28,12 +28,12 @@ debes estar en tu rama "master".
 git add "nombre-del-archivo-que-modificaste"
 ```
 
-6.- Hacer un commit con los cambios que acabas de agregar:
+5.- Hacer un commit con los cambios que acabas de agregar:
 ```
 git commit -m "Contenido de tu commit lo más explícito posible."
 ```
 
-7.- Enviar el push:
+6.- Enviar el push:
 ```
 git push origin master
 ```
