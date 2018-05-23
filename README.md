@@ -10,33 +10,22 @@
 Una vez hagas esto, ya tendrás una copia del repositorio en un tu cuenta de github.
 
 1.- En tu máquina debes clonar el repositorio: 
-```
-git clone https://github.com/tu-usuario/Picks
-```
+`git clone https://github.com/tu-usuario/Picks`
 donde "tu-usuario" será el nombre de usuario para tu cuenta en github. 
 
 2.- Revisar en qué rama te encuentras: 
-```
-git checkout
-```
-debes estar en tu rama "master".
+`git checkout` debes estar en tu rama "master".
 
-3.- Realizar tus cambios. 
+3.- Realizar tus cambios.
 
 4.- Agregar tus cambios a tu repositorio local:
-```
-git add "nombre-del-archivo-que-modificaste"
-```
+`git add "nombre-del-archivo-que-modificaste"`
 
 5.- Hacer un commit con los cambios que acabas de agregar:
-```
-git commit -m "Contenido de tu commit lo más explícito posible."
-```
+`git commit -m "Contenido de tu commit lo más explícito posible."`
 
 6.- Enviar el push:
-```
-git push origin master
-```
+`git push origin master`
 
 ## Build Setup
 
@@ -53,7 +42,7 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Artícles
+## Artículos
 - @TODO (Articles must be submitted)
 
 ### Learn | Courses:
