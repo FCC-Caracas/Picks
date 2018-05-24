@@ -51,4 +51,9 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Front-end
 - ### SASS
-	* [Iniciando en SASS y breakpoint mixin](https://responsivedesign.is/develop/getting-started-with-sass-and-breakpoint-mixin/)
+	* [Iniciando en SASS y breakpoint mixin](https://responsivedesign.is/develop/getting-started-with-sass-and-breakpoint-mixin/) 
+
+
+## Tecnologías "auto-hosteadas"
+
+    * [Self-Hosted](https://github.com/Kickball/awesome-selfhosted)
