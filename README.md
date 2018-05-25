@@ -45,9 +45,13 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ## Artículos
 - @TODO (Articles must be submitted)
 
-### Learn | Courses:
+### Aprendizajes | Cursos:
+  ## Generales
   * [Edabit - E-learn](https://edabit.com/)
   * [Scrimba - cursos](https://scrimba.com/)
+
+  ## Git
+  * [Git - Tutorial interactivo](https://learngitbranching.js.org/)
 
 ## Front-end
 - ### SASS
