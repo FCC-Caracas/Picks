@@ -57,9 +57,8 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 - ### SASS
 	* [Iniciando en SASS y breakpoint mixin](https://responsivedesign.is/develop/getting-started-with-sass-and-breakpoint-mixin/)
 - ### React
-  * [30 proyectos para trabajar con React](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
+  	* [30 proyectos para trabajar con React](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 
 
 ## Tecnologías "auto-hosteadas"
-
-    * [Self-Hosted](https://github.com/Kickball/awesome-selfhosted)
+* [Self-Hosted](https://github.com/Kickball/awesome-selfhosted)
