@@ -57,6 +57,8 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
   ## Vue
   * [Crear una app usando Vue](https://sabe.io/tutorials/getting-started-with-vue-js)
 
+  * [Desarrollando aplicaciones con vue.](https://legacy.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)
+  * [Vue 2 y Firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
 
 
 ## Front-end
